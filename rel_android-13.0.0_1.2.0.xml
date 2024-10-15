@@ -11,8 +11,6 @@
 
 <project path="external/wireless-regdb" name="wireless-regdb" remote="wireless-regdb" revision="7f7a9f7bc6011b072b5427eced1ff19261764e95" />
 
-<project path="vendor/nxp/imx-firmware" name="imx-firmware" remote="imx-proprietary" revision="refs/tags/android-13.0.0_1.2.0" />
-
 <!-- For imx public git. -->
 <project path="vendor" name="android_vendor_lam" remote="imx-linux-sdk" revision="refs/tags/v1.0.0" />
 
