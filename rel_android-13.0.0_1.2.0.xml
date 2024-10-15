@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<include name="aosp-android-13.0.0_1.2.0.xml"/>
-
 <remote name="imx-android" fetch="https://github.com/nxp-imx-android" review="" />
 <remote name="imx-linux-sdk" fetch="https://github.com/PhamLam21" review="" />
 <remote name="imx-proprietary" fetch="https://github.com/nxp/" review="" />
 <remote name="wireless-regdb" fetch="https://git.kernel.org/pub/scm/linux/kernel/git/sforshee/" review="" />
 <remote name="github" fetch="https://github.com/" review="" />
+<default  remote="imx-linux-sdk" sync-j="4" />
 
 
 
