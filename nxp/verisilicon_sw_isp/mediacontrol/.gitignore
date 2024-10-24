@@ -1,9 +1,0 @@
-.vscode
-*.o
-*.ko
-*.yuv
-*.cmd
-build/
-BUILD/
-image/
-CMakeFiles/
